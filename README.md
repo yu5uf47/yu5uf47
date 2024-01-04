@@ -21,4 +21,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yu5uf47&" alt="yu5uf47" /></p>
 
 
-![snake gif](https://github.com/yu5uf47/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/yu5uf47/yu5uf47/blob/output/github-contribution-grid-snake.gif)
