@@ -1,3 +1,4 @@
+[!MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqfD9IdcJzC0PT1wfK-IDGAgqU-iB7McBr8Q&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Yusuf Alas</h1>
 <h3 align="center">A passionate Full Stack Automation Software Tester from Turkey</h3>
 
@@ -19,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yu5uf47&show_icons=true&locale=en" alt="yu5uf47" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yu5uf47&" alt="yu5uf47" /></p>
+
+
+![snake gif](https://github.com/yu5uf47/yu5uf47/blob/output/github-contribution-grid-snake.gif)
